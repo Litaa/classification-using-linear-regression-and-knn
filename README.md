@@ -1,2 +1,2 @@
-# classification-using-logistic-regression-and-knn
+# rain-prediction-using-logistic-regression-and-knn
  
